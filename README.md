@@ -1,2 +1,2 @@
-# curso de git erick
- Curso de Git Github prof guanabara 
+# Curso de Git GitHub Olá, Mundo!
+ Primeiro Repositorio passo a passo!
